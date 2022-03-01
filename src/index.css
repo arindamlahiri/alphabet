@@ -73,6 +73,11 @@ h2 {
   font-weight: bold;
 }
 
+.results .summary {
+  font-size: 20px;
+  font-weight: unset;
+}
+
 .results ul {
   list-style-type: none;
   margin: 0;
